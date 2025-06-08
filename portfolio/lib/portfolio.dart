@@ -182,7 +182,7 @@ class UzuWorksHomePage extends StatelessWidget {
           ),
         ),
         
-        // Right side - Image
+        // Right side - ImageNB
         Expanded(
           flex: 1,
           child: Container(
